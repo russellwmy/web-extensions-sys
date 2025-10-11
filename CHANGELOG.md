@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.4.2 (2025-10-12)
+
+- Add `open_popup`
+- Add `cookies`
+- Add `context_menus`
+
 ## v0.4.1 (2023-04-07)
 
 - Add `Identity::get_profile_user_info`
